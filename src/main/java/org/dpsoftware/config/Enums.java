@@ -438,7 +438,9 @@ public class Enums {
         FR("enum.language.fr"),
         HU("enum.language.hu"),
         IT("enum.language.it"),
-        RU("enum.language.ru");
+        RU("enum.language.ru"),
+        UA("enum.language.ua");
+
         private final String language;
 
         Language(String language) {
